@@ -1,3 +1,3 @@
 # rsschool-2019Q1-codeacademy
-Irina Kotova
+Irina Kotova  
 HTML CSS Basics: https://www.codecademy.com/users/irina.kotova/achievements
